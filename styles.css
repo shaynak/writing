@@ -1,0 +1,15 @@
+/* CSS Document */
+.title {
+	font-family: Quicksand, sans-serif;
+	text-align:right;
+	font-size:70px;
+	margin-top:2%;
+	margin-right:2%;
+}
+
+.page {
+	margin-left:20%;
+	width:60%;
+	background-color:#E1E1E1;
+	height:100vh;
+}
