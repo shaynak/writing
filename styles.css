@@ -57,5 +57,5 @@ a:hover {
 	margin-right:3%;
 	margin-top:0.5%;
 	font-size:19px;
-	transition:1s;
+	display:none;
 }
