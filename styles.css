@@ -1,8 +1,7 @@
 /* CSS Document */
-.title {
-	font-family: Quicksand, sans-serif;
+.name {
 	text-align:right;
-	font-size:70px;
+	font-size:65px;
 	margin-top:2%;
 	margin-right:2%;
 }
@@ -11,5 +10,52 @@
 	margin-left:20%;
 	width:60%;
 	background-color:#E1E1E1;
-	height:100vh;
+	height:100%;
+	font-family:Quicksand, sans-serif;
+}
+
+.categories {
+	text-align:center;
+	margin-top:3%;
+	font-size:25px;
+	font-family:Bellefair, serif;
+}
+
+a {
+	text-decoration:none;
+	color:darkslategray;
+	transition:1.5s;
+}
+
+a:hover {
+	color:aliceblue;
+	transition:1s;
+}
+
+.works {
+	margin-top:1%;
+	margin-left:2%;
+	font-size:30px;
+	font-weight:bold;
+	margin-bottom:1%;
+}
+
+.piece {
+	margin-top:2%;
+	margin-left:5%;
+	font-weight:normal;
+}
+
+.title {
+	font-size:24px;
+	
+}
+
+.body {
+	font-family:Bellefair, serif;
+	margin-left:2%;
+	margin-right:3%;
+	margin-top:0.5%;
+	font-size:19px;
+	transition:1s;
 }
